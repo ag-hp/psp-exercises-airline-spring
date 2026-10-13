@@ -1,0 +1,11 @@
+{
+  "name": "Iberia",
+  "flights": [
+    { "code": "IB3110", "origin": "Madrid",    "destination": "Bilbao",    "departureTime": "07:45" },
+    { "code": "IB0731", "origin": "Madrid",    "destination": "Barcelona", "departureTime": "09:30" },
+    { "code": "IB3406", "origin": "Madrid",    "destination": "Londres",   "departureTime": "12:15" },
+    { "code": "IB0420", "origin": "Barcelona", "destination": "Madrid",    "departureTime": "10:05" },
+    { "code": "IB3113", "origin": "Bilbao",    "destination": "Madrid",    "departureTime": "18:20" },
+    { "code": "IB1702", "origin": "Sevilla",   "destination": "Barcelona", "departureTime": "15:40" }
+  ]
+}
